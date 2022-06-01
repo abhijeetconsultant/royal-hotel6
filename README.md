@@ -1,0 +1,2 @@
+#Epic Guest House website project.
+This is my ongoing website project for the hotel called nuru Palace in my region. I realised that the hotel's website has bad UI and UX design, and also it is not good enough, in terms of responsiveness.
